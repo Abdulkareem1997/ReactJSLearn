@@ -1,0 +1,9 @@
+.MuiMenu-paper ul.MuiList-root li{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.selectFillType svg {
+    background-color: #ffffff;
+    border-radius: 5px;
+}
